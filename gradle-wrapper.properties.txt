@@ -1,0 +1,1 @@
+Si Android Studio pide una versión de Gradle, usa Gradle 8.13. El proyecto requiere JDK 17 y Android SDK Platform 36.
